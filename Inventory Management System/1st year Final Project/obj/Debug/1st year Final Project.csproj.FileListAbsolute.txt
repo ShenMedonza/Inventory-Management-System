@@ -1,0 +1,62 @@
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe.config
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe.manifest
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.application
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.pdb
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\bin\Debug\Guna.UI2.dll
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.AssemblyReference.cache
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Form1.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Properties.Resources.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.GenerateResource.cache
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.exe.manifest
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.application
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.CopyComplete
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.exe
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.pdb
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe.config
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe.manifest
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.application
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.pdb
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\bin\Debug\Guna.UI2.dll
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.AssemblyReference.cache
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.SuggestedBindingRedirects.cache
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.dashboard.resources
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Form1.resources
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Properties.Resources.resources
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.GenerateResource.cache
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.CoreCompileInputs.cache
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.exe.manifest
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.application
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.CopyComplete
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.exe
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.pdb
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.delete.resources
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.login.resources
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.order.resources
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.register.resources
+M:\1 opera downloads\C_2\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.update.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.AssemblyReference.cache
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.SuggestedBindingRedirects.cache
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.dashboard.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.delete.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Form1.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.order.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Properties.Resources.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.register.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.update.resources
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.GenerateResource.cache
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.CoreCompileInputs.cache
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.exe
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.pdb
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe.config
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe.manifest
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.application
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.exe
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\bin\Debug\1st year Final Project.pdb
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\bin\Debug\Guna.UI2.dll
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.exe.manifest
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.application
+M:\1 opera downloads\Inventory Management System\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.CopyComplete
